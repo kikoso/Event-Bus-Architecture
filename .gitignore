@@ -2,6 +2,7 @@
 /local.properties
 /.idea/workspace.xml
 /.idea/libraries
+.idea/
 .DS_Store
 /build
 # Built application files
@@ -30,4 +31,4 @@ proguard/
 
 # Log Files
 *.log
->>>>>>> 6db93c14e9c64ce907d45b956551d59d5626fc51
+
